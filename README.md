@@ -10,4 +10,4 @@ Summary of challenges in order I did them (minor hints):
 
 10: Some struggling with the display counter needing to reset. Overall much easier than day 11.
 
-9: Simple enough.
+9+8: Simple enough.
