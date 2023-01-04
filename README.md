@@ -12,6 +12,8 @@ Summary of challenges in order I did them (minor hints):
 
 9+8: Simple enough.
 
-7: Note that the example directory was not included.
+7: Note that the example file directory was not included.
 
 6: Easiest day so far
+
+1-5: Finished going back now can go forward.
